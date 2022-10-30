@@ -16,7 +16,7 @@ Bài tập 1: Đọc hiểu tutorial One Tutorial to Understand All (M5-Forecast
 https://www.kaggle.com/code/mubashir1/one-tutorial-to-understand-all-m5-forecasting
 
 #### Assignments 2:
-Bài tập 1: Tự lập trình vẽ lại các biểu đồ theo gợi ý ở đây M5 EDA | Kaggle
+Bài tập 2: Tự lập trình vẽ lại các biểu đồ theo gợi ý ở đây M5 EDA | Kaggle
 https://www.kaggle.com/code/akshaychaudhary44/m5-eda
 
 #### Assignments 3:
