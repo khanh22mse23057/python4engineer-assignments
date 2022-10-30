@@ -15,14 +15,19 @@
 Bài tập 1: Đọc hiểu tutorial One Tutorial to Understand All (M5-Forecasting) | Kaggle , chú thích lại bằng tiếng Việt.
 https://www.kaggle.com/code/mubashir1/one-tutorial-to-understand-all-m5-forecasting
 
+#### https://github.com/khanh22mse23057/python4engineer-assignments/blob/main/Assignments1_M5_Forecasting.ipynb
+
 #### Assignments 2:
 Bài tập 2: Tự lập trình vẽ lại các biểu đồ theo gợi ý ở đây M5 EDA | Kaggle
 https://www.kaggle.com/code/akshaychaudhary44/m5-eda
+
+#### https://github.com/khanh22mse23057/python4engineer-assignments/blob/main/Assignments2_Overview_M5_EDA.ipynb
 
 #### Assignments 3:
 Bài tập 3: Đọc hiểu, chú thích lại bằng tiếng Việt và giải thích ngắn gọn các mô hình học của tutorial tại đây M5_Forecasting with LSTM and LightGBM | Kaggle
 https://www.kaggle.com/code/surekharamireddy/m5-forecasting-with-lstm-and-lightgbm
 
+#### https://github.com/khanh22mse23057/python4engineer-assignments/blob/main/Assignments3_M5_Forecasting_with_LSTM_and_LightGBM.ipynb
 #### Final Assignments:
 Superstore Sales Dataset Analysis | Kaggle: EDA + Prediction
 Hãy sử dụng Python và Jupyter Notebook để trả lời các câu hỏi sau:
