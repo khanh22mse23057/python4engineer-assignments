@@ -1,13 +1,13 @@
 
 # Python For Engineer Assignments
-HV: PHẠM NGUYỄN PHÚ KHANH
 
-CLASS: FSB-MSE11-2022
+CLASS    : FSB-MSE11-2022
+MSHV     : 22MSE23057
+HV NAME  : PHẠM NGUYỄN PHÚ KHÁNH
 
 
 
-
-[comment]: #cover
+[comment]: #Assignments
 
 
 ## Releases
