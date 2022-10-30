@@ -25,6 +25,17 @@ https://www.kaggle.com/code/surekharamireddy/m5-forecasting-with-lstm-and-lightg
 
 #### Final Assignments:
 Superstore Sales Dataset Analysis | Kaggle: EDA + Prediction
+Hãy sử dụng Python và Jupyter Notebook để trả lời các câu hỏi sau:
+- Tiền xử lý dữ liệu (xử lý các trường hợp thiếu dữ liệu, chuẩn hóa ngày tháng, đơn vị,...).
+- Vẽ biểu đồ thể hiện biến động doanh số theo tháng. Cho biết doanh thu trung bình trong 3 tháng gần nhất.
+- Vẽ biểu đồ doanh số bán hàng theo quý và cho biết quý nào có tổng doanh số cao nhất?
+- Tính thời gian trung giao hàng trung bình (ship date - order date) theo từng tháng và vẽ biểu đồ mô tả sự biến thiên của con số này.
+- Vẽ biểu đồ thể hiện sức mua theo từng thành phố. Cho biết top 3 thành phố có doanh số thấp nhất và 3 thành phố có doanh số cao nhất.
+- Vẽ biểu đồ thể hiện tỉ trọng doanh số theo bang (state) và cho biết trung bình doanh số của 5 bang dẫn đầu về sức mua.
+- Cho biết các bang dẫn đầu doanh số theo từng vùng (east, west, south, central,..).
+- Cho biết top 3 sản phẩm có doanh thu cao nhất và top 3 sản phẩm có số lượng đơn vị bán ra cao nhất.
+- Vẽ biểu đồ thể hiện tỉ trọng doanh số của từng category.
+- Dự báo doanh số theo nhiều khía cạnh khác nhau trong tương lai: theo vùng, theo bang, theo category,..  và phát hành API để khai thác.
 
 Source code: https://github.com/khanh22mse23057/superstore-ales-api
 
