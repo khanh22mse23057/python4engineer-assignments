@@ -1,14 +1,11 @@
 
-# Python For Engineer Assignments
+# FSBMSE: Python For Engineer Assignments
 
 ## CLASS    : FSB-MSE11-2022
 ## MSHV     : 22MSE23057
 ## HV NAME  : PHẠM NGUYỄN PHÚ KHÁNH
 
-
-
 [comment]: #Assignments
-
 
 ## Releases
 #### Assignments 1:
@@ -44,7 +41,8 @@ Hãy sử dụng Python và Jupyter Notebook để trả lời các câu hỏi s
 
 #### https://colab.research.google.com/github/khanh22mse23057/python4engineer-assignments/blob/main/FinalAssignments_Practice%26Build_API_with_Superstore_Sales_Dataset_Analysis.ipynb
 #### Source code: https://github.com/khanh22mse23057/superstore-sales-api
-Triển khai API:
+
+##Triển khai API:
 #### Prod site: https://superstore-sale-api.fsbmse11.live/docs
 ## Contributions
 
