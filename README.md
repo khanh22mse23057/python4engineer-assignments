@@ -44,6 +44,7 @@ Hãy sử dụng Python và Jupyter Notebook để trả lời các câu hỏi s
 
 #### https://colab.research.google.com/github/khanh22mse23057/python4engineer-assignments/blob/main/FinalAssignments_Practice%26Build_API_with_Superstore_Sales_Dataset_Analysis.ipynb
 #### Source code: https://github.com/khanh22mse23057/superstore-ales-api
-
+Triển khai API:
+#### Prod site: https://superstore-sale-api.fsbmse11.live/docs
 ## Contributions
 
