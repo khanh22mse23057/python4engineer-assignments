@@ -44,5 +44,7 @@ Hãy sử dụng Python và Jupyter Notebook để trả lời các câu hỏi s
 
 ## Triển khai API:
 #### Prod site: https://superstore-sale-api.fsbmse11.live/docs
+
+https://prnt.sc/vfFjpzE56ckh
 ## Contributions
 
