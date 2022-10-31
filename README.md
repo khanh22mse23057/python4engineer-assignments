@@ -43,7 +43,7 @@ Hãy sử dụng Python và Jupyter Notebook để trả lời các câu hỏi s
 - Dự báo doanh số theo nhiều khía cạnh khác nhau trong tương lai: theo vùng, theo bang, theo category,..  và phát hành API để khai thác.
 
 #### https://colab.research.google.com/github/khanh22mse23057/python4engineer-assignments/blob/main/FinalAssignments_Practice%26Build_API_with_Superstore_Sales_Dataset_Analysis.ipynb
-#### Source code: https://github.com/khanh22mse23057/superstore-ales-api
+#### Source code: https://github.com/khanh22mse23057/superstore-sales-api
 Triển khai API:
 #### Prod site: https://superstore-sale-api.fsbmse11.live/docs
 ## Contributions
