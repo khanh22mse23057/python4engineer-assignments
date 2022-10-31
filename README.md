@@ -42,7 +42,7 @@ Hãy sử dụng Python và Jupyter Notebook để trả lời các câu hỏi s
 - Vẽ biểu đồ thể hiện tỉ trọng doanh số của từng category.
 - Dự báo doanh số theo nhiều khía cạnh khác nhau trong tương lai: theo vùng, theo bang, theo category,..  và phát hành API để khai thác.
 
-https://colab.research.google.com/drive/1uHTF16JUgtisFKQlaH3wee_sKFdvpzCb?usp=sharing
+https://colab.research.google.com/github/khanh22mse23057/python4engineer-assignments/blob/main/FinalAssignments_Practice%26Build_API_with_Superstore_Sales_Dataset_Analysis.ipynb
 #### Source code: https://github.com/khanh22mse23057/superstore-ales-api
 
 ## Contributions
